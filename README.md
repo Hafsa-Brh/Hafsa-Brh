@@ -43,7 +43,7 @@ With a strong foundation in Computer Science and Mathematics, I bring a unique b
 - <img src="https://em-content.zobj.net/source/apple/354/seedling_1f331.png" width="25" align="left" /> **Currently learning:** Deep reinforcement learning and microservices orchestration
 - <img src="https://em-content.zobj.net/source/apple/354/handshake_1f91d.png" width="25" align="left" /> **Looking to collaborate on:** Open-source AI projects and sustainable tech solutions
 - <img src="https://em-content.zobj.net/source/apple/354/speech-balloon_1f4ac.png" width="25" align="left" /> **Ask me about:** AI, distributed systems, full-stack development, or green technology
-- <img src="https://em-content.zobj.net/source/apple/354/high-voltage_26a1.png" width="25" align="left" /> **Fun fact:** I speak 5 languages and am passionate about using technology for environmental sustainability
+- <img src="https://em-content.zobj.net/source/apple/354/high-voltage_26a1.png" width="25" align="left" /> **Fun fact:** I enjoy volunteering and using my technical skills to support education and social impact projects.
 
 ---
 
