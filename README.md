@@ -157,11 +157,11 @@ With a strong foundation in Computer Science and Mathematics, I bring a unique b
 ## <img src="https://em-content.zobj.net/source/apple/354/chart-increasing_1f4c8.png" width="30"> GitHub Stats <img src="https://em-content.zobj.net/source/apple/354/chart-increasing_1f4c8.png" width="30">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hafsa%2DBrh&show_icons=true&count_private=true&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=c9d1d9&bg_color=0d1117" alt="Hafsa Brh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hafsa-Brh &show_icons=true&count_private=true&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=c9d1d9&bg_color=0d1117" alt="Hafsa Brh's GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malakzaidi&layout=compact&hide_border=true&title_color=FF69B4&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malakzaidi &layout=compact&hide_border=true&title_color=FF69B4&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
 </div>
 
 <div align="center">
