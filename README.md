@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-Hafsa_Barhrhouj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF69B4&color=2D3142" />
     </a>
     <a href="https://github.com/Hafsa-Brh">
-      <img src="https://img.shields.io/badge/GitHub-Hafsa Barhrhouj-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=FF69B4&color=2D3142" />
+      <img src="https://img.shields.io/badge/GitHub-Hafsa Brh-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=FF69B4&color=2D3142" />
     </a>
   </p>
   
