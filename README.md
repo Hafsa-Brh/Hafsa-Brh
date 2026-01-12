@@ -18,14 +18,14 @@
       <img src="https://img.shields.io/badge/LinkedIn-Hafsa_Barhrhouj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF69B4&color=2D3142" />
     </a>
     <a href="https://github.com/Hafsa-Brh">
-      <img src="https://img.shields.io/badge/GitHub-Hafsa'-'Brh-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=FF69B4&color=2D3142" />
+      <img src="https://img.shields.io/badge/GitHub-Hafsa_Brh-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=FF69B4&color=2D3142" />
     </a>
   </p>
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=malakzaidi&style=for-the-badge&color=FF69B4" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/malakzaidi?style=for-the-badge&color=FF69B4" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/malakzaidi?style=for-the-badge&color=FF69B4" alt="Stars" />
+    <img src="https://komarev.com/ghpvc/?username=Hafsa-Brh&style=for-the-badge&color=FF69B4" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/Hafsa-Brh?style=for-the-badge&color=FF69B4" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/Hafsa-Brh?style=for-the-badge&color=FF69B4" alt="Stars" />
   </p>
 </div>
 
