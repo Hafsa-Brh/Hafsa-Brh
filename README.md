@@ -161,11 +161,11 @@ With a strong foundation in Computer Science and Mathematics, I bring a unique b
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username=Hafsa-Brh &layout=compact&hide_border=true&title_color=FF69B4&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/username=Hafsa-Brh &layout=compact&hide_border=true&title_color=FF69B4&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username=Hafsa-Brh &theme=radical&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/username=Hafsa-Brh &theme=radical&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" />
 </div>
 
 ---
