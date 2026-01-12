@@ -12,7 +12,7 @@
 
   <p>
     <a href="mailto:hafsabarouj@gmail.com">
-      <img src="https://img.shields.io/badge/Email-hafsabarouj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF69B4&color=207,159,255" />
+      <img src="https://img.shields.io/badge/Email-hafsabarouj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF69B4&color=2D3142" />
     </a> 
     <a href="https://www.linkedin.com/in/hafsa-barhrhouj-782090398/">
   <img src="https://img.shields.io/badge/LinkedIn-Malak_Zaidi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF69B4&color=2D3142" />
