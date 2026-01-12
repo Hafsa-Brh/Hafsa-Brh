@@ -170,53 +170,6 @@ With a strong foundation in Computer Science and Mathematics, I bring a unique b
 
 ---
 
-## <img src="https://em-content.zobj.net/source/apple/354/woman-with-headscarf_1f9d5.png" width="30"> Education <img src="https://em-content.zobj.net/source/apple/354/woman-with-headscarf_1f9d5.png" width="30">
-
-### 🎓 Master of Artificial Intelligence & Distributed Systems
-**ENSET Mohammedia** | *September 2024 - June 2026 (Expected)*
-- Focused on advanced topics in AI, machine learning, neural networks, and distributed systems
-- Engaged in research projects and coursework that enhance my understanding of scalable and efficient systems
-- Developed a strong foundation in theoretical and practical aspects of AI and distributed systems
-
-### 🎓 Bachelor in Mathematics and Computer Science
-**Faculté des Sciences Ben M'Sik Casablanca** | *September 2021 - June 2024*
-- Developed a strong foundation in computer science, mathematics, and database management
-- Completed several projects that involved algorithm design, data structures, and software development
-- Undertook coursework in advanced topics such as data mining, machine learning, and distributed systems
-
-### 🎓 High School Diploma in Computational and Applied Mathematics
-**Lycée Ibn Mandour** | *September 2020 - June 2021*
-- Developed early interest in computational mathematics and problem-solving
-- Participated in math competitions and coding challenges
-- Undertook coursework in advanced mathematics and computer science topics
-
----
-
-## <img src="https://em-content.zobj.net/source/apple/354/woman-with-headscarf_1f9d5.png" width="30"> Professional Experience <img src="https://em-content.zobj.net/source/apple/354/woman-with-headscarf_1f9d5.png" width="30">
-
-### Research and Development Intern
-**Université Hassan II Ben M'Sik de Casablanca** | *February 2024 - June 2024*
-
-#### Project: Reverd Africa
-An innovative web application to manage climate solutions for African regions, leveraging a microservices architecture.
-
-#### Technologies Used
-<p>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security" />
-  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud" />
-</p>
-
-#### Key Achievements
-- Successfully defended the project before a jury, earning recognition for its innovation and technical depth
-- Worked under the mentorship of Dr. Soumaya Ounacer and received valuable insights from esteemed professors
-- Applied insights from the Green Digital Skills course by INCO Academy, focusing on sustainable tech solutions
-- Enhanced system performance with tools for service discovery and management
-- Designed and implemented a scalable and resilient system using React.js for the frontend and Spring Boot for backend microservices
-
----
-
 ## <img src="https://em-content.zobj.net/source/apple/354/sparkles_2728.png" width="30"> Projects <img src="https://em-content.zobj.net/source/apple/354/sparkles_2728.png" width="30">
 
 <div align="center">
