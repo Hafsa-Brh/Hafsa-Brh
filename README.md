@@ -165,61 +165,6 @@ With a strong foundation in Computer Science and Mathematics, I bring a unique b
 
 <br/><br/>
 
-## <img src="https://em-content.zobj.net/source/apple/354/sparkles_2728.png" width="30"> Projects <img src="https://em-content.zobj.net/source/apple/354/sparkles_2728.png" width="30">
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Reverd Africa</h3>
-        <p align="center">
-          <a href="https://github.com/malakzaidi/reverd-africa" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" alt="Reverd Africa Project" width="350" />
-          </a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/malakzaidi/reverd-africa" target="_blank">
-            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
-          </a>
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
-          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-        </p>
-        <p align="center">
-          An innovative web application to manage climate solutions for African regions, leveraging a microservices architecture.
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">AI Research Projects</h3>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="AI Research" width="350" />
-          </a>
-        </p>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Research-0077B5?style=for-the-badge&logo=research-gate&logoColor=white" alt="Research" />
-          </a>
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-        </p>
-        <p align="center">
-          Currently working on cutting-edge research in AI and distributed systems, focusing on novel algorithms for environmental sustainability.
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 
 ## <img src="https://em-content.zobj.net/source/apple/354/love-letter_1f48c.png" width="30"> Let's Connect! <img src="https://em-content.zobj.net/source/apple/354/love-letter_1f48c.png" width="30">
 
