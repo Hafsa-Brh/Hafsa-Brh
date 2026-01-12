@@ -31,7 +31,7 @@
 
 ---
 
-## <img src="https://em-content.zobj.net/source/apple/354/high-voltage_26a1.png" width="25" align="left" /> About Me <img src="https://em-content.zobj.net/source/apple/354/high-voltage_26a1.png" width="25" align="left" /> 
+## <img src="https://em-content.zobj.net/source/apple/354/sparkles_2728.png" width="30"> About Me <img src="https://em-content.zobj.net/source/apple/354/sparkles_2728.png" width="30">
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/236119160-1d7ba6af-1d8c-4ab3-aa44-a60d7f4a5151.gif" alt="AI Illustration" />
 
