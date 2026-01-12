@@ -47,47 +47,6 @@ With a strong foundation in Computer Science and Mathematics, I bring a unique b
 
 ---
 
-## <img src="https://em-content.zobj.net/source/apple/354/globe-with-meridians_1f310.png" width="30"> Languages <img src="https://em-content.zobj.net/source/apple/354/globe-with-meridians_1f310.png" width="30">
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://flagicons.lipis.dev/flags/4x3/fr.svg" width="60" alt="French Flag" /><br />
-        <strong>French</strong><br />
-        <img src="https://progress-bar.dev/100/?width=100&color=FF69B4" alt="100%" /><br />
-        Native
-      </td>
-      <td align="center">
-        <img src="https://flagicons.lipis.dev/flags/4x3/gb.svg" width="60" alt="English Flag" /><br />
-        <strong>English</strong><br />
-        <img src="https://progress-bar.dev/100/?width=100&color=FF69B4" alt="100%" /><br />
-        Bilingual
-      </td>
-      <td align="center">
-        <img src="https://flagicons.lipis.dev/flags/4x3/ma.svg" width="60" alt="Moroccan Flag" /><br />
-        <strong>Arabic</strong><br />
-        <img src="https://progress-bar.dev/100/?width=100&color=FF69B4" alt="100%" /><br />
-        Native
-      </td>
-      <td align="center">
-        <img src="https://flagicons.lipis.dev/flags/4x3/tr.svg" width="60" alt="Turkish Flag" /><br />
-        <strong>Turkish</strong><br />
-        <img src="https://progress-bar.dev/60/?width=100&color=FF69B4" alt="60%" /><br />
-        Limited Working
-      </td>
-      <td align="center">
-        <img src="https://flagicons.lipis.dev/flags/4x3/cn.svg" width="60" alt="Chinese Flag" /><br />
-        <strong>Chinese</strong><br />
-        <img src="https://progress-bar.dev/30/?width=100&color=FF69B4" alt="30%" /><br />
-        Elementary
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## <img src="https://em-content.zobj.net/source/apple/354/sparkles_2728.png" width="30"> Key Strengths & Technical Expertise <img src="https://em-content.zobj.net/source/apple/354/sparkles_2728.png" width="30">
 
 <div align="center">
