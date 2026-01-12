@@ -156,27 +156,11 @@ With a strong foundation in Computer Science and Mathematics, I bring a unique b
 
 ## <img src="https://em-content.zobj.net/source/apple/354/chart-increasing_1f4c8.png" width="30"> GitHub Stats <img src="https://em-content.zobj.net/source/apple/354/chart-increasing_1f4c8.png" width="30">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malakzaidi&show_icons=true&count_private=true&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=c9d1d9&bg_color=0d1117" alt="Hafsa Brh's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malakzaidi&layout=compact&hide_border=true&title_color=FF69B4&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malakzaidi&theme=radical&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" />
-</div>
-
----
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Hafsa-Brh&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Hafsa-Brh&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-Hafsa-Brh.vercel.app/api/top-langs/?username=Hafsa-Brh&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Hafsa-Brh&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
