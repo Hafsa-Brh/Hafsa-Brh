@@ -7,7 +7,7 @@
   <h1 style="color: 207,159,255; font-family: 'Dancing Script', cursive;">✨ Hafsa Barhrhouj✨</h1>
   
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&height=60&lines=AI+%26+Machine+Learning+Specialist;Distributed+Systems+Architect;Full-Stack+Developer;Green+Technology+Advocate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=30&duration=3000&pause=1000&color=207,159,255&center=true&vCenter=true&random=false&width=600&height=60&lines=AI+%26+Machine+Learning+Specialist;Distributed+Systems+Architect;Full-Stack+Developer;Green+Technology+Advocate" alt="Typing SVG" />
   </p>
 
   <p>
