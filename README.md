@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,29,30&height=180&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=159, 43, 104&height=180&section=header" width="100%" />
 
   <!-- Simple profile picture with basic styling -->
   
 
-  <h1 style="color: #FF69B4; font-family: 'Dancing Script', cursive;">✨ Malak Zaidi ✨</h1>
+  <h1 style="color: #FF69B4; font-family: 'Dancing Script', cursive;">✨ Hafsa Barhrhouj✨</h1>
   
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&height=60&lines=AI+%26+Machine+Learning+Specialist;Distributed+Systems+Architect;Full-Stack+Developer;Green+Technology+Advocate" alt="Typing SVG" />
