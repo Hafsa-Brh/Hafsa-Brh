@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=159, 43, 104&height=180&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=328, 57, 40&height=180&section=header" width="100%" />
 
   <!-- Simple profile picture with basic styling -->
   
