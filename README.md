@@ -116,7 +116,7 @@ With a strong foundation in Computer Science and Mathematics, I bring a unique b
 
 ---
 
-## <img src="https://em-content.zobj.net/source/apple/354/woman-with-headscarf_1f9d5.png" width="30"> Programming Languages & Tools <img src="https://em-content.zobj.net/source/apple/354/woman-with-headscarf_1f9d5.png" width="30">
+## <img src="https://em-content.zobj.net/source/apple/354/sparkles_2728.png" width="30"> Programming Languages & Tools <img src="https://em-content.zobj.net/source/apple/354/sparkles_2728.png" width="30">
 
 ### Programming Languages
 <p align="center">
