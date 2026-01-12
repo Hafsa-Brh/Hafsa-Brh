@@ -157,15 +157,15 @@ With a strong foundation in Computer Science and Mathematics, I bring a unique b
 ## <img src="https://em-content.zobj.net/source/apple/354/chart-increasing_1f4c8.png" width="30"> GitHub Stats <img src="https://em-content.zobj.net/source/apple/354/chart-increasing_1f4c8.png" width="30">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malakzaidi&show_icons=true&count_private=true&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=c9d1d9&bg_color=0d1117" alt="Malak Zaidi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hafsa-Brh&show_icons=true&count_private=true&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=c9d1d9&bg_color=0d1117" alt="Hafsa Barhrhouj's GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malakzaidi&layout=compact&hide_border=true&title_color=FF69B4&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafsa-Brh&layout=compact&hide_border=true&title_color=FF69B4&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malakzaidi&theme=radical&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hafsa-Brh&theme=radical&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" />
 </div>
 
 ---
@@ -225,34 +225,6 @@ With a strong foundation in Computer Science and Mathematics, I bring a unique b
 
 ---
 
-## <img src="https://em-content.zobj.net/source/apple/354/trophy_1f3c6.png" width="30"> Certifications <img src="https://em-content.zobj.net/source/apple/354/trophy_1f3c6.png" width="30">
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" alt="INCO Academy" />
-        <h3>Green Digital Skills Program</h3>
-        <p><em>INCO Academy</em></p>
-        <p>Focused on sustainable tech solutions and eco-friendly practices in digital environments.</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" alt="Social Media Marketing" />
-        <h3>Social Media Marketing</h3>
-        <p><em>Certificate of Completion</em></p>
-        <p>Gained insights into digital marketing and social media strategies for tech products.</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" alt="Data Management" />
-        <h3>Data Management and Analysis</h3>
-        <p><em>Certificate of Completion</em></p>
-        <p>Enhanced skills in managing and analyzing large datasets for AI applications.</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 ## <img src="https://em-content.zobj.net/source/apple/354/love-letter_1f48c.png" width="30"> Let's Connect! <img src="https://em-content.zobj.net/source/apple/354/love-letter_1f48c.png" width="30">
 
@@ -291,7 +263,6 @@ With a strong foundation in Computer Science and Mathematics, I bring a unique b
 </div>
 
 
-<hr/>
 
 
 
